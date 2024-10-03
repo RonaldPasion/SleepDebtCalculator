@@ -23,3 +23,7 @@ function getSleepHours(day) {
       break;
   }
 }
+
+function getActualSleepHours() {
+  
+}
